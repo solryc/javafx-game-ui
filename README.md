@@ -5,18 +5,18 @@ All assets were recolored and neutralized to comply with NDA restrictions — on
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Screenshot | Description |
 |-------------|-------------|
 | ![Main View](assets/screenshots/first.png) | Main GameView showing overall board layout, player statistics, and chatroom. |
-| ![Game Start](assets/screenshots/second.png) | Initial game setup with neutralized placeholders and turn indicator. |
-| ![Active Gameplay](assets/screenshots/third.png) | Mid-game layout featuring color-coded tiles, leaderboard, and player status updates. |
+| ![Game Start](assets/screenshots/second.png) | Layout whenever the local player decides to buy a card. |
+| ![Active Gameplay](assets/screenshots/third.png) | Expanded player hand and reserved card overview window.  |
 | ![Reserved Cards Overlay](assets/screenshots/fourth.png) | Example of reserved card overlay with modal interaction. |
-| ![Card Details Popup](assets/screenshots/fifth.png) | Dynamic overlay showing detailed card information and player actions. |
-| ![Gameplay Update](assets/screenshots/sixth.png) | Turn-based state changes visualized in the board grid. |
-| ![Hand and Reserved Cards](assets/screenshots/seventh.png) | Expanded player hand and reserved card overview window. |
-| ![Chat and Token Updates](assets/screenshots/eigth.png) | Full in-game view with real-time chat updates and token tracking. |
+| ![Card Details Popup](assets/screenshots/fifth.png) | Turn-based state changes visualized in the board grid and the token boxes. |
+| ![Gameplay Update](assets/screenshots/sixth.png) | Showing a mistery card, whenever the player clicks on special cards. |
+| ![Hand and Reserved Cards](assets/screenshots/seventh.png) | Mid-game layout featuring color-coded turns (top center) and player status updates. |
+| ![Chat and Token Updates](assets/screenshots/eigth.png) | Responsive design that indicates if a player can buy a card (and if it is the players turn, if the player decides to make an action) |
 
 ---
 
@@ -34,7 +34,7 @@ All assets were recolored and neutralized to comply with NDA restrictions — on
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Designing and implementing multi-component UIs in **JavaFX**
 - Managing **scene graph hierarchies** and layout containers
@@ -44,7 +44,7 @@ All assets were recolored and neutralized to comply with NDA restrictions — on
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |-----------|-------|
@@ -56,7 +56,7 @@ All assets were recolored and neutralized to comply with NDA restrictions — on
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > The source code and original assets are protected under a university NDA.  
 > The screenshots displayed here contain **only recolored placeholder visuals**.  
@@ -64,7 +64,7 @@ All assets were recolored and neutralized to comply with NDA restrictions — on
 
 ---
 
-## 💬 About This Project
+## About This Project
 
 This UI was part of a multiplayer board-game project built in a team environment.  
 I was responsible for the **in-game interface (GameView)**, focusing on:
@@ -75,14 +75,14 @@ I was responsible for the **in-game interface (GameView)**, focusing on:
 
 ---
 
-## 🌐 Repository Purpose
+## Repository Purpose
 
 This repository serves as a **visual portfolio reference** to demonstrate my JavaFX front-end development skills.  
 It does not contain executable source code or assets — only the UI presentation.
 
 ---
 
-### 👤 Author
+### Author
 
 **Giann Carlo Steeb**  
 🎓 B.Sc. Business Informatics
